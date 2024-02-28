@@ -1,0 +1,7 @@
+.env
+upoads/*
+!uploads/.gitkeep
+node_modules
+.Ds_Store
+sshkey
+sshkey.pub
